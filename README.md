@@ -11,15 +11,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarush_Bhat-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarushdev)
 [![GitHub](https://img.shields.io/badge/GitHub-Aarushb-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aarushb)
 
-I am [Aarush](https://www.wisdomlib.org/names/aarush "Sanskrit: First ray of sun") Bhat.
+I am [Aarush](https://www.wisdomlib.org/names/aarush "Sanskrit: First ray of sun (WisdomLib)") Bhat.
 
-I hope to talk about myself in much greater detail on my (coming very soon) website. For now, this is just a high (or [`low` ⚙️](https://github.com/aarushb/riscfree "RISC-Free: Accessible RISC-V assembler & emulator")) level overview, depending on the lens you choose, for those who prefer to get into the technical weeds with me. For the rest, the "Why?" and everything else non-technical (there is that guys, I promise, even if not much), I look forward to meeting you on the website!
+I hope to talk about myself in much greater detail on my (coming very soon) website. For now, this is just a high (or [`low` ⚙️](https://github.com/aarushb/riscfree "RISC-Free: Accessible RISC-V assembler & emulator (GitHub)")) level overview, depending on the lens you choose, for those who prefer to get into the technical weeds with me. For the rest, the "Why?" and everything else non-technical (there is that guys, I promise, even if not much), I look forward to meeting you on the website!
 
 ---
 
 ## Education & Leadership
 
-- University of Alberta | BSc in Computing Science (Software Practice) | Class of 2028 | GPA: 4.0 | Dean's Honor Roll
+- University of Alberta | BSc in Computing Science (Software Practice) | 2028 | GPA: 4.0 | Dean's Honor Roll
 - [Undergraduate Artificial Intelligence Society (UAIS)](https://github.com/UndergraduateArtificialIntelligenceClub) | 2023-2026 | VP of Technology
 
 ---
