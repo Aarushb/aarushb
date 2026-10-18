@@ -19,8 +19,8 @@ I hope to talk about myself in much greater detail on my (coming very soon) webs
 
 ## Education & Leadership
 
-- University of Alberta: BSc in Computing Science (Software Practice), Class of 2028 (GPA: 4.0, Dean's Honor Roll)
-- [Undergraduate Artificial Intelligence Society (UAIS)](https://github.com/UndergraduateArtificialIntelligenceClub) (2023-2026): VP of Technology
+- University of Alberta: BSc in Computing Science - Software Practice | Class of 2028 | GPA: 4.0 | Dean's Honor Roll
+- [Undergraduate Artificial Intelligence Society (UAIS)](https://github.com/UndergraduateArtificialIntelligenceClub) | 2023-2026 | VP of Technology
 
 ---
 
