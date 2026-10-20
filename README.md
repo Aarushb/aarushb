@@ -1,6 +1,6 @@
 > Where are you? Here\
 > What time is it? Now\
-> What are you? This moment.\
+> What are you? This moment.
 >
 > ― Dan Millman, [Way of the Peaceful Warrior](https://www.goodreads.com/book/show/2255.Way_of_the_Peaceful_Warrior "View on Goodreads")
 
