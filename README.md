@@ -30,7 +30,7 @@ I hope to talk about myself in much greater detail on my (coming very soon) webs
 - Web & Frameworks: React, Next.js, Astro, FastAPI, Node.js, Django, TailwindCSS
 - Machine Learning & AI: PyTorch, TensorFlow, BERT, Transformers, LLMs & Agentic Toolchains, RAG, MediaPipe
 - Accessible Design: WCAG 2.1/2.2, WAI-ARIA, Assistive Technology (AT) integration, Human-Computer Interaction (HCI)
-- Human-centered approach: It is seemingly getting easier and easier to forget this, but software is built for **people**. Starting directly from the problem itself rather than a checklist, keeping people in the design loop from day zero, shaped by having to build the accessible tools I needed before building for others.
+- Human-centered approach: It is seemingly getting easier and easier to forget this, but software is built for **people**. Starting directly from the problem itself rather than a checklist, keeping people in the design loop from day zero, shaped by having to build the accessible tools I and many others needed.
 
 ---
 
@@ -38,14 +38,14 @@ I hope to talk about myself in much greater detail on my (coming very soon) webs
 
 While at the core, we are who we are, how we choose to express that constantly evolves, to both grow and become better human beings and keep up with the world which is also constantly evolving. Expect this to therefore be updated (if I remember to do so).
 
-Therefore, my current running list of interests includes:
+Thus, my current running list of interests includes:
 - Keeping up with latest trends in the field of artificial intelligence (agentic toolchains and systems on the practical applications side, and reinforcement learning on the theoretical machine learning side)
 - Security in the age of AI
 - Low-level system design
 
 ---
 
-Above all else, I consider it my mission to do my part to "leave the world better than it was before" (as the great Mollymauk Tealeaf once said), starting with accessibility and inclusivity. I believe that technology holds the keys to unlock doors for many such communities to step onto the world's stage, and eat at the same table using tech that is built with them in mind, baked into the system rather than retrofitted. I hope you will join me in this venture 🤝 🌅
+Above all else, I consider it my mission to do my part to "leave the world better than it was before" (as the great Mollymauk Tealeaf once said), starting with accessibility and inclusivity. I believe that technology holds the keys to unlock doors for many such communities to step onto the global stage, and eat at the same table using tech that is built with them in mind, baked into the system rather than retrofitted. I hope you will join me in this venture 🤝 🌅
 
 ---
 
